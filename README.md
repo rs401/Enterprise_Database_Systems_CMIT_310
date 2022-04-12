@@ -2,6 +2,10 @@
 
 These are the files from my final project for CMIT-310 Enterprise Database Systems course.
 
+## Below is the project overview with requirements.
+
+---
+
 ## Final Project Overview
 
 You are tasked with finishing development of a section of an existing database system (Champlain Charity LLC). The system is for a local charity and includes multiple schemas. Having been developed over time, the existing data may have some inconsistencies and existing stored procedures and functions may have been developed using older or varying techniques to accomplish similar tasks. This is normal in any production database. In fact, most production databases have some functionality that is no longer used but is left in place due to the difficulty of altering RDBMS (Relational Database Management System).
